@@ -2,7 +2,7 @@
  *Tuesday 6-9pm
  *GENG1003
  *Assignment 1
- *This program will the single roots of a quadratic equation to be estimated by the Bisection Method.
+ *This program will find the single roots of a quadratic equation to be estimated by the Bisection Method.
  *The information will be inputted from a data file which will provide values of the coefficients of the quadratic polynomial
  *which will also estimate the range of values overs which the roots might be found.
  */
